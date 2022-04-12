@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+<br> 
+![](https://visitor-badge.glitch.me/badge?page_id=27lakshay.27lakshay)
+<br />
 
 I like to code, read, paint and click. For me, accomplishments == learning one new thing daily. 
 
